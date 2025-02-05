@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://aditi.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://aditi.github.io/" rel="alternate" type="text/html" /><updated>2025-02-04T19:23:11-08:00</updated><id>https://aditi.github.io/feed.xml</id><title type="html">Aditi Kadam</title><subtitle>Aditi Kadam</subtitle><author><name>Aditi Kadam</name><email>aditi.dkadam@gmail.com</email></author><entry><title type="html">Human Resources Data Visualization</title><link href="https://aditi.github.io/Human-Resources-Data-Visualization/" rel="alternate" type="text/html" title="Human Resources Data Visualization" /><published>2023-10-02T00:00:00-07:00</published><updated>2023-10-02T00:00:00-07:00</updated><id>https://aditi.github.io/Human-Resources-Data-Visualization</id><content type="html" xml:base="https://aditi.github.io/Human-Resources-Data-Visualization/">&lt;p&gt;In this HR data analysis case study, I undertook the task of exploring a dataset for a fictitious software company. The goal of the study was to import, analyze, and visualize Human Resources data in Tableau. The dataset was downloaded from kaggle and cleaned in pgadmin prior to analysis.&lt;/p&gt;
+
+&lt;h3 id=&quot;skills--tableau-sql-visulization-data-exlporation-data-cleaning&quot;&gt;Skills : Tableau, SQL, Visulization, Data Exlporation, Data Cleaning&lt;/h3&gt;
+
+&lt;p&gt;This data analysis and visualization will help leadership team to have visibility on high level metrics about the state of its employees.&lt;/p&gt;
+
+&lt;p&gt;Data exploration, cleaning and manipulation is performed on the downloaded data before using data for visualization inside tableau.&lt;/p&gt;
+
+&lt;p&gt;The HR data visualization provide insights into following areas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hiring trend of the company.&lt;/li&gt;
+  &lt;li&gt;Recruitment source used by employees to get the job.&lt;/li&gt;
+  &lt;li&gt;Diversity and inclusion for the company.&lt;/li&gt;
+  &lt;li&gt;Department wise job positions and employee count.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe seamless=&quot;&quot; frameborder=&quot;0&quot; src=&quot;https://public.tableau.com/views/HRdataanalysisfinal/Dashboard1?:embed=yes&amp;amp;:display_count=yes&amp;amp;:showVizHome=no&quot; width=&quot;1100&quot; height=&quot;700&quot; scrolling=&quot;yes&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Each sheet of dashboard gives us the following insights:&lt;/p&gt;
+
+&lt;p&gt;1.&lt;strong&gt;Salary Range Per Position&lt;/strong&gt;:
+This visualization gives the salary range for each position in the company. Visualization states that companies highest paying job is production technician 1.&lt;/p&gt;
+
+&lt;p&gt;2.&lt;strong&gt;Diversity and Inclusion&lt;/strong&gt;:
+Count of female and male employees, US citizen employees, diversity and inclusion-race these 3 visualizations gives us an overall overview of Diversity and inclusion of the company. It shows that company have more female employees than male. Also, there are more US citizen employees. For race company have 187 white employees which is max and 1 hispanic employee out of total 311 employees.&lt;/p&gt;
+
+&lt;p&gt;3.&lt;strong&gt;Hiring Trend&lt;/strong&gt;:
+The Hiring trend graph gives us the overview of number of employees hired over the years. The maximum employees hired was 83 in  year 2011 and minimum was in year 2006 and 2018. Line graph is used to show that trend.&lt;/p&gt;
+
+&lt;p&gt;4.&lt;strong&gt;Recruitment Source Used by employee&lt;/strong&gt;:
+This pie chart gives an exact idea which sources are mainly used to recruit the employees. We can say that Linkedin and Indeed are the most popular platforms used.&lt;/p&gt;
+
+&lt;p&gt;5.&lt;strong&gt;Departmentwise Jobs and Employess&lt;/strong&gt;:
+This bar graph gives us an idea about how many position are there in each department and how many employees works for that positio.&lt;/p&gt;</content><author><name>Aditi Kadam</name><email>aditi.dkadam@gmail.com</email></author><summary type="html">In this HR data analysis case study, I undertook the task of exploring a dataset for a fictitious software company. The goal of the study was to import, analyze, and visualize Human Resources data in Tableau. The dataset was downloaded from kaggle and cleaned in pgadmin prior to analysis.</summary></entry></feed>
